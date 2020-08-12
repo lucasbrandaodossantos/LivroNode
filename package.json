@@ -1,0 +1,19 @@
+{
+  "name": "livronode",
+  "version": "1.0.0",
+  "description": "Exercicios e testes do livro de node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbrandaodossantos/LivroNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasbrandaodossantos/LivroNode/issues"
+  },
+  "homepage": "https://github.com/lucasbrandaodossantos/LivroNode#readme"
+}
